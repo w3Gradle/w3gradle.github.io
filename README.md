@@ -1,2 +1,2 @@
 # w3gradle.github.io
-w3 - IT Products &amp; Services.
+A Ghanaian technology company that specializes in Internet-related products and services.
